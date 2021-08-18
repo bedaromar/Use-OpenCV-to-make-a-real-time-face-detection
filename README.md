@@ -5,7 +5,7 @@
 
 1- Download Python version 3.9.6 from the official website from the link:https://www.python.org/downloads/macos/
 
-![Circuit Diagram]()
+![Circuit Diagram](https://github.com/bedaromar/Use-OpenCV-to-make-a-real-time-face-detection/blob/main/screenshot/Screenshot%201443-01-10%20at%2004.43.51.png)
 
 2- Download OpenCV Library and type the command 
  -  `$ pip install opencv-python`
